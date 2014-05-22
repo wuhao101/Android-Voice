@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="170dip"
+	android:layout_height="50dip">
+	<TextView
+		android:id="@+id/setting_text"
+		style="@style/dialog_text"
+		android:layout_width="wrap_content"
+		android:layout_height="49dip"
+		android:gravity="center_vertical"
+		android:paddingLeft="15dip"
+		android:textSize="18dip"
+		android:textColor="#FFFFFF">
+	</TextView>
+</RelativeLayout>
+

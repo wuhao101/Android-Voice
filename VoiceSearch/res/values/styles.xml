@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<!-- 重复设置界面不可编辑字体 -->
+	<style name="dialog_text">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">20dip</item>
+		<item name="android:textSize">14dip</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:textColor">#ffffff</item>
+		<item name="android:gravity">center_vertical</item>
+		<item name="android:background">@null</item>
+	</style>
+
+
+</resources>
+

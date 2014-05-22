@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">android voice search</string>
+    <string name="button_text">Click Me and Start Voice</string>
+    <string name="app_name">Voice </string>
+    
+    <string-array name="index_menu_item">
+    	<item>Web Setting</item>
+    	<item>App Setting</item>
+    </string-array>
+</resources>
